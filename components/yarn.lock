@@ -164,10 +164,10 @@ jquery.hotkeys@jeresig/jquery.hotkeys#master:
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
   integrity sha512-XwIBPqcMn57FxfT+Go5pzySnm4KWkT1Tv7gjrpT1srtf8Weynl6R273VJ5GjkRb51IzMp5nbaPjJXMWeju2MKg==
 
-justgage@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/justgage/-/justgage-1.4.0.tgz#c978fba491db53d121bc244faec142fd40a6b839"
-  integrity sha512-ziX2FAidHHBTTCKMPODEgGpOxAYfESjHkUNbfsOJfoJkucOZOPuZpXgRds3dMveWI2k0MEN9r0I223hzyQvweg==
+justgage@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/justgage/-/justgage-1.4.2.tgz#4910f26f418a599e958af26f4860448d1ed1994f"
+  integrity sha512-21SyCBko3VXT8bWPzD4XqpoJsUDNYh0yQHkVXqdW7gMXc2U4taMqwdKNKwqCwRJ/KYoYPVi/FMPZDz8mlTTnVA==
   dependencies:
     raphael "^2.3.0"
 
